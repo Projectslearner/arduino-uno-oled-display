@@ -1,4 +1,4 @@
-### Hello World on OLED Display Using Arduino
+# Hello World on OLED Display Using Arduino
 
 ## Description
 
