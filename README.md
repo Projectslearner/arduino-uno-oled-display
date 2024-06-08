@@ -63,15 +63,15 @@ This project demonstrates how to use an Arduino to display a "Hello, world!" mes
 2. **Educational Projects:** Teach basic principles of interfacing and controlling OLED displays with microcontrollers.
 3. **Custom Animations:** Develop custom animations and designs for OLED displays.
 
-## Support
+---
 
-For any issues or further assistance, please contact us:
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
 
-- 🌐 [Projects Learner](https://projectslearner.com)
-- 📧 Email: projectslearner@gmail.com
-- 📸 Instagram
-- 📘 Facebook
-  ▶️ YouTube
-  📘 LinkedIn
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
 
-            Made for you with ❣️ from ProjectsLearner.
+## Made for you with ❣️ from ProjectsLearner
